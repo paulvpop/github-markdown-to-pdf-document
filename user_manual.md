@@ -67,7 +67,7 @@ And keep the width to 'FULL' in case there are wide images.
 
 <img width="370" height="375" alt="image" src="https://github.com/user-attachments/assets/d56fbd6e-ad2b-4c44-963e-2ee3a35447cd" /> <br>
 
-**Step 15:** To export as a pdf, select 'Destination' as "Save as PDF". Adjust the many parameters for the print option. If the markdown document contains images with large height and width, it would be best to keep the 'Layout' as landscape, 'Pages per sheet' as 2, and adjust the 'Scale' until the most proportionate version is visible to you on all the pages.
+**Step 15:** To export as a pdf, select 'Destination' as "Save as PDF". Adjust the many parameters for the print option. If the markdown document contains images with large height and width, it would be best to keep the 'Layout' as landscape, 'Pages per sheet' as 2, and adjust the 'Scale' until the most proportionate version is visible to you on all the pages. Uncheck the 'Headers and footers' option if you don't want the date and timestamp, as well as the url of the raw markdown on all pages (it looks cleaner without).
 
 <img width="1307" height="852" alt="image" src="https://github.com/user-attachments/assets/35036e6a-730c-419d-b41f-9573fc2ea20f" /> <br>
 
