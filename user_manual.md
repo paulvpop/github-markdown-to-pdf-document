@@ -75,6 +75,8 @@ And keep the width to 'FULL' in case there are wide images.
 
 <img width="1154" height="315" alt="image" src="https://github.com/user-attachments/assets/7035c3bc-19a9-44f7-baab-f544dfa4df88" />
 
+Now the pdf is saved in the folder you selected.
+
 
 
 
