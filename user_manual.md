@@ -59,7 +59,7 @@ And keep the width to 'FULL' in case there are wide images.
 
 <img width="250" height="450" alt="image" src="https://github.com/user-attachments/assets/41cc7ff0-8af9-4d60-8680-781134f67f1e" /> <br>
 
-**Step 13:** Similarly, based on your markdown object and requirements, you can select the relevant 'Content' and 'Compiler' options.
+**Step 13:** Similarly, based on your markdown object and requirements, you can select the relevant 'Content' and 'Compiler' options. In the 'Compiler', remove the 'Linkify' option as it will not hyperlinks and only render the full links as links in the document. When you uncheck, the 'Linkify' option, the link text will not show as a hyperlink, but all other hyperlinks including within-document hyperlinks (like section header links) will render correctly.
 
 <img width="382" height="435" alt="image" src="https://github.com/user-attachments/assets/649dfdc8-a535-4af9-8d15-994705560052" /> <br>
 
@@ -76,6 +76,12 @@ And keep the width to 'FULL' in case there are wide images.
 <img width="1154" height="315" alt="image" src="https://github.com/user-attachments/assets/7035c3bc-19a9-44f7-baab-f544dfa4df88" />
 
 Now the pdf is saved in the folder you selected.
+
+**Troubleshooting:**
+
+If you are using Brave and the content doesn't render in Markdown, then remove the shields for the page (if you know for sure that there are no malicious content on that webpage). The shields can be pulled up as soon as the markldown renders.
+
+<img width="471" height="328" alt="image" src="https://github.com/user-attachments/assets/a44a69fd-17cf-4e52-aea4-a5db8af937c2" />
 
 
 
